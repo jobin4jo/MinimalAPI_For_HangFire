@@ -1,0 +1,6 @@
+@MinimalAPI_For_HangFire_HostAddress = http://localhost:5026
+
+GET {{MinimalAPI_For_HangFire_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
